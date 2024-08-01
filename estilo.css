@@ -1,0 +1,18 @@
+@charset"UTF-8";
+
+h1{
+	color: red;
+	text-align: center;
+	font-size: 25pt;
+}
+h2{
+	color: blue;
+	text-align: center;
+	font-size: 20pt;
+}
+p{
+	color: #00ff00;
+	text-align: justify;
+	text-indent: 50px;
+	font-size: 15pt;
+}
